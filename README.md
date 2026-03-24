@@ -1,0 +1,2 @@
+# Maven-Practice
+Simple practices
